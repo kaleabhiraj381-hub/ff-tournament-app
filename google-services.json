@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "442470388904",
+    "firebase_url": "https://game-app-db1e1.firebaseio.com",
+    "project_id": "game-app-db1e1",
+    "storage_bucket": "game-app-db1e1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442470388904:android:abc123def456",
+        "android_client_info": {
+          "package_name": "com.fftournament.app"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyACKWfRJOOQY-QayLT82iW9IwBay3sGAoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
